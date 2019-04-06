@@ -14,8 +14,6 @@ Once that is complete, clone the repo to the vps
 cd into the directory and run python3 Nix-Chat_Server.py
 
 # Running Nix Chat Client(On Linux)
-Run the given Nix-Chat_Linux file that is located in the dist folder  
-Or
 Open the code in the Python Idle and run the code
 Or
 Compile the source code with your own python converter
@@ -30,4 +28,4 @@ Compile the source code with py to exe or anyother option
 NOTE: You will need to change the IP of the 'HOST' at the bottom of the code to the server IP you have
 
 
-IMPORTANT- The server code used in Nix Chat is a clone/remake of sachans's Chat App on Github. I changed around all of the UI,some of the server connection setting, and added the option for encrypted chatting for users. If you want the original source code for the server, visit sachan's github page
+IMPORTANT- The server code used in Nix Chat is a clone/remake of sachans's Chat App on Github. I changed around all of the UI, some of the server connection setting, and added the option for encrypted chatting for users. If you want the original source code for the server, visit sachan's github page
