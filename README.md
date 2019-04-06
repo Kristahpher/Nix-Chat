@@ -3,7 +3,7 @@ Nix Chat is a Python Chatroom application that allows users to have encrypted ch
 
 
 # Running Nix Chat Server on the VPS
-First, create a cheap vps from any reputable site(I used the cheapest Ubuntu 18.01 server on Digital Ocean but any vps should be fine).
+First, create a cheap vps from any reputable site (I used the cheapest Ubuntu 18.01 server on Digital Ocean but any vps should be fine).
 
 Next, install python3 and pip to the server. I used this link for my vps. 
 https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-programming-environment-on-an-ubuntu-18-04-server
